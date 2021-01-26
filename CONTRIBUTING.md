@@ -1,5 +1,5 @@
 # Contributing
-
+## "Bitte sende eine Email an: Lieblingskollege@firma.com" 
 Your contributions are always welcome!
 
 ## Guideline
